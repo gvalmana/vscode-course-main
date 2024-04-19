@@ -1,6 +1,16 @@
 
 
 
+class NameClass {
+
+    constructor() {
+        console.log('NameClass initialized');
+     }
+
+    showNameClass() {
+        return this;
+    }
+}
 
 
 

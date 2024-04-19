@@ -1,8 +1,5 @@
 
-
-
-
-
+console.log('Hola world');
 
 
 //! Ejemplo final - Primer Snippet - clg
